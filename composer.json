@@ -1,0 +1,7 @@
+{
+    "name": "hanguosoft/test",
+    "description": "test",
+    "type": "library",
+    "license": "mit",
+    "require": {}
+}
