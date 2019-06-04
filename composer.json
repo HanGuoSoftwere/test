@@ -1,21 +1,20 @@
 {
-    "name": "hanguosoft/test",  //包名
-    "description": "测试", //包的简介
-    "keywords": ["hanguosoft"], //搜索关键字
-    "license": "MIT", //开源协议
+    "name": "hanguosoft/test",  
+    "description": "测试", 
+    "keywords": ["hanguosoft"], 
+    "license": "MIT", 
     "authors": [
-        //作者
         {
             "name": "AltriaPendragon",
             "email": "3537902994@qq.com"
         }
     ],
     "require": {
-         "php": ">=7.1"  // 依赖, 如果有依赖其他项目的,需要写明版本
+         "php": ">=7.1"  
     },
     "autoload": {
         "psr-4": {
             "App\\": "app/"
-        },
+        }  
     }
 }
